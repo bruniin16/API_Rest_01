@@ -1,1 +1,1 @@
-# First API REST created in Data Science course using Python Flask.
+# API created in Data Science course using Python Flask just for testing.
